@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+  }
+  nav ul {
+    display:flex;
+    list-style: none;
+    align-items: center;
+    text-align: center;
+    
+  }
+  nav ul li{
+    padding:100px;
+    text-decoration: none;
+    
+  }
+  .hero ul {
+    display:flex;
+    list-style-type: None;
+    padding:20px;
+  }
+   .CAT{
+    padding:100px;
+    font-size: larger;
+    border-radius: 50px;
+    background-color:rgb(92, 149, 199);
+  }
+  .GRE{
+    padding:100px;
+    font-size: larger;
+    border-radius: 50px;
+    background-color:rgba(199, 126, 92, 0.732);
+  }
+  .IELTS{
+    padding:100px;
+    font-size: larger;
+    border-radius: 50px;
+    background-color:rgb(199, 149, 92);
+  }
+  .IAS{
+    padding:100px;
+    font-size: larger;
+    border-radius: 50px;
+    background-color:rgb(46, 192, 80);
+  }
